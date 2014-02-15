@@ -131,8 +131,7 @@
     {
       "type": "Feature",
       "properties": {
-        "2013": "Libin-Ochamp",
-        "2012": ""
+        "2013": "Libin-Ochamp"
       },
       "geometry": {
         "type": "Point",
