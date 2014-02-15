@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "2013": "Libin-Ochamp"
+        "2013": "Libin-Ochamp",
+        "2012": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -124,6 +125,33 @@
               50.255300003337005
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2013": "Libin-Ochamp",
+        "2012": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.484044551849365,
+          50.25635981105255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2012": "Hampteau, Hotton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.254109501838684,
+          49.92793270741787
         ]
       }
     }
