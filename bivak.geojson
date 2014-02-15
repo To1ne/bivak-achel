@@ -3,231 +3,60 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.039882,
-          38.898321
-        ]
-      },
       "properties": {
-        "marker-symbol": "bar",
-        "name": "The Exchange",
-        "address": "1719 G St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.038193,
-          38.901345
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Blackfin",
-        "address": "1620 I St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.03195,
-          38.907826
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Churchkey",
-        "address": "1337 14th St NW",
-        "note": "Ask the bartender for the password"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.018728,
-          38.902708
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Busboys and Poets",
-        "address": "1025 5th St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.047745,
-          38.909637
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "SoHo Cafe",
-        "address": "2150 P St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.018627,
-          38.899924
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Chinatown Coffee Company",
-        "address": "475 H St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.04345,
-          38.905342
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Science Club",
-        "address": "1136 19th St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.027744,
-          38.929675
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Wonderland Ballroom",
-        "address": "  1101 Kenyon St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.042438,
-          38.921894
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Tryst",
-        "address": "2459 18th St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.097225,
-          38.8859
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Northside Social",
-        "address": "3211 Wilson Blvd, Arlington, VA 22201"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.045067,
-          38.821598
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Buzz Bakery Coffee & Lounge",
-        "address": "901 Slaters Lane, Alexandria, VA 22314"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.012659,
-          38.915561
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Boundary Stone",
-        "address": "116 Rhode Island Ave NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Bistro Bohem",
-        "address": "600 Florida Ave Nw"
+        "2013": "Libin-Ochamp"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -77.02017903327942,
-          38.91535424264446
+          [
+            [
+              5.253868103027344,
+              49.928474879932715
+            ],
+            [
+              5.252763032913207,
+              49.92799832097651
+            ],
+            [
+              5.2532780170440665,
+              49.92772205275741
+            ],
+            [
+              5.253696441650391,
+              49.927756586371416
+            ],
+            [
+              5.254082679748535,
+              49.92757010456199
+            ],
+            [
+              5.254340171813965,
+              49.926817263255025
+            ],
+            [
+              5.254887342453003,
+              49.92690705228532
+            ],
+            [
+              5.254812240600586,
+              49.92760463828482
+            ],
+            [
+              5.254758596420288,
+              49.92790162727996
+            ],
+            [
+              5.2544474601745605,
+              49.92835056065926
+            ],
+            [
+              5.253868103027344,
+              49.928474879932715
+            ]
+          ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Old Ebbitt",
-        "address": "675 15th St NW",
-        "note": "Ask the bartender for the WiFi password"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.033644,
-          38.898077
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0276460,
-          38.9007690
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Capitol City Brewing Company",
-        "address": "1100 New York Ave NW",
-        "note": "Ask the bartender for the password"
-      }
-    }   
+    }
   ]
 }
