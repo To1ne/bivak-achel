@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "2012 Libin-Ochamp"
+        "title": "2012 Libin-Ochamp",
+        "fill": "#f00",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -61,7 +63,9 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "2012 Hampteau, Hotton"
+        "title": "2012 Hampteau, Hotton",
+        "fill": "#f00",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -131,7 +135,7 @@
       "type": "Feature",
       "properties": {
         "title": "2013 Libin-Ochamp",
-        "marker-symbol": 3,
+        "marker-symbol": 13,
         "marker-color": "#f00"
       },
       "geometry": {
@@ -146,8 +150,9 @@
       "type": "Feature",
       "properties": {
         "title": "2012 Hampteau, Hotton",
-        "marker-symbol": 2,
-        "marker-color": "#f00"
+        "marker-symbol": 12,
+        "marker-color": "#f00",
+        "fill": ""
       },
       "geometry": {
         "type": "Point",
@@ -160,7 +165,9 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Jupille, Rendeux"
+        "title": "Jupille, Rendeux",
+        "fill": "#0d0",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -202,7 +209,7 @@
       "type": "Feature",
       "properties": {
         "title": "Jupille, Rendeux",
-        "marker-symbol": 8,
+        "marker-symbol": "08",
         "marker-color": "#0d0"
       },
       "geometry": {
@@ -216,7 +223,9 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "2011 Erezee, Mormont"
+        "title": "2011 Erezee, Mormont",
+        "fill": "#f00",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -262,7 +271,7 @@
       "type": "Feature",
       "properties": {
         "title": "2011 Erezee, Mormont",
-        "marker-symbol": 1,
+        "marker-symbol": 11,
         "marker-color": "#f00"
       },
       "geometry": {
@@ -278,7 +287,9 @@
       "properties": {
         "title": "2015 Chevron, Stoumont",
         "marker-symbol": "",
-        "marker-color": ""
+        "marker-color": "",
+        "fill": "#f00",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -356,7 +367,7 @@
       "type": "Feature",
       "properties": {
         "title": "2015 Chevron, Stoumont",
-        "marker-symbol": 5,
+        "marker-symbol": 15,
         "marker-color": "#f00"
       },
       "geometry": {
@@ -371,7 +382,9 @@
       "type": "Feature",
       "properties": {
         "title": "2014 Rochefort",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "fill": "#f00",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -493,7 +506,7 @@
       "type": "Feature",
       "properties": {
         "title": "2014 Rochefort",
-        "marker-symbol": 4,
+        "marker-symbol": 14,
         "marker-color": "#f00"
       },
       "geometry": {
@@ -501,6 +514,81 @@
         "coordinates": [
           5.1654839515686035,
           50.13128758276661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "#f00",
+        "fill-opacity": 0.5,
+        "title": "2016 Fronville"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.432610511779785,
+              50.29149160270719
+            ],
+            [
+              5.431966781616211,
+              50.29077873342873
+            ],
+            [
+              5.4319024085998535,
+              50.290106981450485
+            ],
+            [
+              5.4343485832214355,
+              50.289983597403214
+            ],
+            [
+              5.436258316040038,
+              50.28992875994616
+            ],
+            [
+              5.436151027679443,
+              50.29175207151025
+            ],
+            [
+              5.435700416564941,
+              50.29140934910473
+            ],
+            [
+              5.435421466827393,
+              50.291285968434444
+            ],
+            [
+              5.434091091156006,
+              50.29147789378334
+            ],
+            [
+              5.433168411254883,
+              50.29162869172866
+            ],
+            [
+              5.432610511779785,
+              50.29149160270719
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2016 Fronville",
+        "marker-symbol": 16,
+        "marker-color": "#f00",
+        "fill": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.433833599090576,
+          50.290771878864604
         ]
       }
     }
