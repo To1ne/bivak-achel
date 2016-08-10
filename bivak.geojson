@@ -209,7 +209,7 @@
       "type": "Feature",
       "properties": {
         "title": "Jupille, Rendeux",
-        "marker-symbol": "08",
+        "marker-symbol": 8,
         "marker-color": "#0d0"
       },
       "geometry": {
