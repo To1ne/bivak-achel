@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "2012 Libin-Ochamp",
+        "title": "2013 Libin-Ochamp",
         "fill": "#f00",
         "fill-opacity": 0.5
       },
@@ -134,8 +134,9 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "2013 Libin-Ochamp",
-        "marker-symbol": 13,
+        "marker-size": "medium",
+        "title": "2012 Hampteau, Hotton",
+        "marker-symbol": 12,
         "marker-color": "#f00"
       },
       "geometry": {
@@ -149,8 +150,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "2012 Hampteau, Hotton",
-        "marker-symbol": 12,
+        "title": "2013 Libin-Ochamp",
+        "marker-symbol": 13,
         "marker-color": "#f00",
         "fill": ""
       },
@@ -764,6 +765,24 @@
         "coordinates": [
           5.547242760658264,
           50.281928668894665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "title": "2019 Hampteau, Hotton",
+        "marker-size": "",
+        "marker-symbol": "",
+        "fill": "",
+        "fill-opacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.483508110046386,
+          50.256232909753024
         ]
       }
     }
